@@ -1,0 +1,40 @@
+.showReel h2{
+  color: #337ab7;
+  text-transform: uppercase;
+  padding-top: 30px;
+
+}
+
+
+iframe{
+  padding-top: 10px;
+}
+
+
+.showReel img{
+	width:20%;
+	height:225px;
+	margin:0 auto;
+	border:5px solid #7d7d7d;
+	border-radius:100%;
+	-webkit-filter: grayscale(100%);
+	-moz-filter:grayscale(100%);
+    filter: grayscale(100%);
+}
+
+@media only screen 
+  and (min-device-width: 360px) 
+  and (max-device-width: 480px){
+
+	.showReel img{
+	width:70%;
+	height:225px;
+	margin:0 auto;
+	border:5px solid #7d7d7d;
+	border-radius:100%;
+	-webkit-filter: grayscale(100%);
+	-moz-filter:grayscale(100%);
+    filter: grayscale(100%);
+}
+  
+}

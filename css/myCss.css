@@ -1,0 +1,15 @@
+.myButt{
+  background: red;
+}
+
+.underline:hover{
+  color:red;
+}
+
+.underline{
+  text-decoration: none;
+}
+
+.fa-heart:before{
+  color: red;
+}

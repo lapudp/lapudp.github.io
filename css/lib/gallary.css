@@ -1,0 +1,11 @@
+.showReel h2{
+  color: #337ab7;
+  text-transform: uppercase;
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+
+iframe{
+  padding-top: 10px;
+}
